@@ -1,4 +1,4 @@
-import { Component } from "react";
+import React from "react";
 import Searchbar from "../Searchbar/Searchbar";
 
 export default function SearchForm({ onSubmit }) {

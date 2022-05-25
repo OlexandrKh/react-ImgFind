@@ -41,7 +41,7 @@ export default class App extends Component {
         .finally(() => {
           this.setState({ status: "idle" });
         });
-    }, 500);
+    }, 1);
   };
   // Установить значение по чему искать картинк
   handlerSetFindStr = (imageName) => {

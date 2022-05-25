@@ -20,4 +20,7 @@ function fetchPixabay(findStr, page) {
     .then((jData) => jData.hits);
 }
 
-export default { fetchPixabay };
+const PixApi = {
+  fetchPixabay,
+};
+export default PixApi;

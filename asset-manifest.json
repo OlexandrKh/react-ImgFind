@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-ImgFind/static/css/main.f92e0330.css",
+    "main.js": "/react-ImgFind/static/js/main.48ae397a.js",
+    "static/media/search.svg": "/react-ImgFind/static/media/search.21f5997050cda63a4fd8.svg",
+    "index.html": "/react-ImgFind/index.html",
+    "main.f92e0330.css.map": "/react-ImgFind/static/css/main.f92e0330.css.map",
+    "main.48ae397a.js.map": "/react-ImgFind/static/js/main.48ae397a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92e0330.css",
+    "static/js/main.48ae397a.js"
+  ]
+}
